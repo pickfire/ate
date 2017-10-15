@@ -1,0 +1,13 @@
+APU Timetable Export
+====================
+
+Export APU timetable to ical through APU openapi's timetable.
+
+Usage
+-----
+
+    $ ./ate.py -i 'UCFF1705CS(DA)'
+
+TODO
+----
+- Implement this in javascript to be included in CTI mobile app. (maybe hacktoberfest)
